@@ -11,6 +11,7 @@
 		5BC07ECF2C3EA99600F64F3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC07ECE2C3EA99600F64F3F /* ContentView.swift */; };
 		5BC07ED12C3EA99800F64F3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BC07ED02C3EA99800F64F3F /* Assets.xcassets */; };
 		5BC07ED42C3EA99800F64F3F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BC07ED32C3EA99800F64F3F /* Preview Assets.xcassets */; };
+		5BC07EDB2C3ECEB600F64F3F /* WeatherAppButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC07EDA2C3ECEB600F64F3F /* WeatherAppButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5BC07ECE2C3EA99600F64F3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5BC07ED02C3EA99800F64F3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BC07ED32C3EA99800F64F3F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5BC07EDA2C3ECEB600F64F3F /* WeatherAppButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5BC07ECC2C3EA99600F64F3F /* WeatherAppApp.swift */,
 				5BC07ECE2C3EA99600F64F3F /* ContentView.swift */,
+				5BC07EDA2C3ECEB600F64F3F /* WeatherAppButton.swift */,
 				5BC07ED02C3EA99800F64F3F /* Assets.xcassets */,
 				5BC07ED22C3EA99800F64F3F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BC07EDB2C3ECEB600F64F3F /* WeatherAppButton.swift in Sources */,
 				5BC07ECF2C3EA99600F64F3F /* ContentView.swift in Sources */,
 				5BC07ECD2C3EA99600F64F3F /* WeatherAppApp.swift in Sources */,
 			);
